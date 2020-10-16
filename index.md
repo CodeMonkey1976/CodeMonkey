@@ -6,10 +6,13 @@
 
 
 ## I. Informal Code Review
-### I created an informal code review and posted it to YouTube [Here](https://youtu.be/orjrt5hhb78)<br/>
+#### I created an informal code review and posted it to YouTube [Here](https://youtu.be/orjrt5hhb78)<br/>
 
 
-### Markdown
+## II. Artifacts
+#### Software design and engineering - CS-410 Reverse Engineering
+#### Algorithms and data structure -   CS 340 Advanced Programming Concepts
+#### Databases -                       CS 340 Advanced Programming Concepts
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
