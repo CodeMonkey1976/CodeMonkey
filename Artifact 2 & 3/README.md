@@ -12,4 +12,7 @@
           
 ##### I believe that I met the objectives. I have already spent a significant amount of time getting items that did not originally work. I had a hard time getting the details section to work on the server. I learned a good bit about manipulating JSON files into strings and arrays. I had a difficult time getting the data to display back to the client the way I wanted, but in the end, everything works.
 
+##### References
+###### Deepa, G., Thilagam, P. S., Khan, F. A., Praseed, A., & Palsetia, N. (2018, Febuary). Black-box detection of XQuery injection and parameter tampering vulnerabilities in web applications. International Journal of Information Securit, pp. p105-120.
+
 
