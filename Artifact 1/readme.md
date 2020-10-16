@@ -7,5 +7,5 @@
 #### I enjoy writing code. I find that the C languages are a bit of a challenge for me.  I enjoy writing in Python because of its flow.  I want to become more efficient with C and C++. I know the only way to get better at programming is to program.   I did learn how to write to a file.  I do not recall if I did that in my Python class or not, but I imagine that I will be referencing documentation that I have already been taught from here on out.
 
 #### References
-#####Mehrabani, Y. S., & Eshghi, M. (2012). Design of an ASIP processor for MD5 hash algorithm. 2012 20th Telecommunications Forum (TELFOR) Telecommunications Forum (TELFOR) (pp. 548-541). Belgrade: IEEE.
+##### Mehrabani, Y. S., & Eshghi, M. (2012). Design of an ASIP processor for MD5 hash algorithm. 2012 20th Telecommunications Forum (TELFOR) Telecommunications Forum (TELFOR) (pp. 548-541). Belgrade: IEEE.
 
