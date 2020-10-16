@@ -6,3 +6,6 @@
 #### I feel that I have met the course objectives.  I feel that I went above the objectives with all the enhancements that I made.  One of the suggestions was to Transfer a project into a different language.  I feel that I did that when I rewrote the program in Python.    I learned a significant amount in this project.  I learned to read and write data to and from files.  I was able to use this data to make decisions such as how many spaces should have between the name and grades on the menu.
 #### I enjoy writing code. I find that the C languages are a bit of a challenge for me.  I enjoy writing in Python because of its flow.  I want to become more efficient with C and C++. I know the only way to get better at programming is to program.   I did learn how to write to a file.  I do not recall if I did that in my Python class or not, but I imagine that I will be referencing documentation that I have already been taught from here on out.
 
+#### References
+#####Mehrabani, Y. S., & Eshghi, M. (2012). Design of an ASIP processor for MD5 hash algorithm. 2012 20th Telecommunications Forum (TELFOR) Telecommunications Forum (TELFOR) (pp. 548-541). Belgrade: IEEE.
+
