@@ -1,8 +1,13 @@
-#                                                    Albert Smith's ePortfolio
+# Albert Smith's ePortfolio
 
-Hello
+# Professional Self-Assessment
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+## I. Informal Code Review
+### I created an informal code review and posted it to YouTube [Here](https://youtu.be/orjrt5hhb78)<br/>
+
 
 ### Markdown
 
