@@ -11,8 +11,8 @@
 
 ## II. Artifacts
 #### Software design and engineering - [CS-410 Reverse Engineering](https://github.com/CodeMonkey1976/CodeMonkey/tree/gh-pages/Artifact%201)<br/>
-#### Algorithms and data structure -   CS 340 Advanced Programming Concepts
-#### Databases -                       CS 340 Advanced Programming Concepts
+#### Algorithms and data structure - CS 340 Advanced Programming Concepts
+#### Databases - CS 340 Advanced Programming Concepts
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
