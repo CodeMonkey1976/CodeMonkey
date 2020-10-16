@@ -6,7 +6,9 @@
 
 
 ## I. Informal Code Review
-####  [CS-410 Reverse Engineering](https://youtu.be/Wyy0_9sQ-II)
+#### [CS-410 Reverse Engineering](https://youtu.be/Wyy0_9sQ-II)
+#### [CS-340 Advanced Programming Concepts](https://youtu.be/FHEIcQeNLKg)
+#### [CS-340 Advanced Programming Concepts]
 
 
 ## II. Artifacts
