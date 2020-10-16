@@ -71,13 +71,13 @@ def readEntry(stock_ticker):
     
     #While loop will only take "Y" or "N" in either lower or upper case
     while menu != "Y" and menu != "N":
-      menu = raw_input("Save File Y/N?\n")
+      menu = input("Save File Y/N?\n")
       menu = menu.upper()
       
       if menu == "Y":
        # The the information is saved as a file, the user is asked for the file name
        # If the user does not give an extention of .txt then one is given  
-        file_name = raw_input("Please enter file name. *.txt\n").lower()   
+        file_name = input("Please enter file name. *.txt\n").lower()   
         if file_name.find('.txt') < 1:
           file_name = file_name + ".txt"
     r = requests.get(URL)
@@ -186,7 +186,7 @@ def detailsMenu():
     
     print("2. Get Details")
     print("9. Return Previous Menu")
-    menu = raw_input("Choice: ")
+    menu = input("Choice: ")
     if menu == "+":
       # Advance the list up one
       x = adjust_option(x, len(detailList) - 1, "+")
@@ -197,7 +197,7 @@ def detailsMenu():
       
     if menu == str(1):
       # Allow user to change stock Ticker
-      ticker = raw_input("Enter Stock Ticker")
+      ticker = input("Enter Stock Ticker")
       ticker = ticker.upper()
     if menu == str(2):
       #Retrieve details from Mongo Server conserning Stock Ticker and details selected
@@ -239,9 +239,9 @@ def aggregate_menu():
       print("2. Get Outstanding shares in " + industry + " industry")
       print("3. Get Details On Companies Menu")
       print("9. Return Previous Menu")
-      menu = raw_input("Choice: ")
+      menu = input("Choice: ")
       if menu == str(1):
-        industry = raw_input("Enter Sector Search : ")
+        industry = input("Enter Sector Search : ")
 
       if menu == str(2):
         sectorSearch(industry)
@@ -268,13 +268,13 @@ def menuHighLow():
     print("3. Return Number of stocks beteen High / low")    
     print("4. Idustry Search: " + industrySearch)
     print("9. Return to Main Menu")
-    menu = raw_input("Choice: ")
+    menu = input("Choice: ")
     
     if menu == str(1):
-      low = raw_input("Low Number: ")
+      low = input("Low Number: ")
       
     if menu == str(2):
-      high = raw_input("High Number: ")
+      high = input("High Number: ")
       
     if menu == str(3):
       searchHighLow(low, high)
@@ -310,12 +310,12 @@ def database_search(minimum_stock_price, maximum_stock_price):
     print("2.  Maximum Stock Value   =  " + str(maximum_stock_price))
     print("3.  Search Database ")
     print("9.  Return to Main Menu")
-    menu = raw_input("Choice: ")
+    menu = input("Choice: ")
 
     if menu == str(1):
       # Enter Minimum Stock Price
       while True:
-        minimum_stock_price = raw_input("Enter Minimum Stock Price : ")
+        minimum_stock_price = input("Enter Minimum Stock Price : ")
         try:
           minimum_stock_price = int(minimum_stock_price) + 0
           break
@@ -325,7 +325,7 @@ def database_search(minimum_stock_price, maximum_stock_price):
     elif menu == str(2):
       while True:
         # Enter Maximum Stock Price
-        maximum_stock_price = raw_input("Enter Maximum Stock Price : ")
+        maximum_stock_price = input("Enter Maximum Stock Price : ")
         try:
           maximum_stock_price = int(maximum_stock_price) + 0
           break
@@ -355,15 +355,15 @@ def mainMenu():
     print("8.  Delete Ticker: " + ticker)
     print("9.  Database Search Menu")
     print("10. Quit ")
-    menu = raw_input("Choice: ")
+    menu = input("Choice: ")
     
     if menu == str(1):
-        ticker = raw_input("Enter Stock Ticker: ")
+        ticker = input("Enter Stock Ticker: ")
         ticker = ticker.upper()
         price = 0.00
 
     if menu == str(2):
-        price = raw_input("Enter Stock Price: ")
+        price = input("Enter Stock Price: ")
         
     if menu == str(3):
         updateEntry(ticker, price)
