@@ -10,7 +10,7 @@
 
 
 ## II. Artifacts
-#### Software design and engineering - CS-410 Reverse Engineering
+#### Software design and engineering - [CS-410 Reverse Engineering](https://github.com/CodeMonkey1976/CodeMonkey/tree/gh-pages/Artifact%201)<br/>
 #### Algorithms and data structure -   CS 340 Advanced Programming Concepts
 #### Databases -                       CS 340 Advanced Programming Concepts
 
